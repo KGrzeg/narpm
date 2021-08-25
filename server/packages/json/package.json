@@ -1,0 +1,9 @@
+{
+  "name": "json",
+  "version": "1.0",
+  "description": "JSON parser and encoder",
+  "author": "ElvishJerricco",
+  "files": [
+    "json.lua"
+  ]
+}
